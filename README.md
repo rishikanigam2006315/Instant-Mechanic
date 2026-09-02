@@ -4,17 +4,6 @@ An end-to-end, production-grade automotive roadside assistance and garage bookin
 
 ---
 
-## 📋 Assignment Requirements Mapping
-
-| Assignment Requirement | Status | Implementation Details |
-| :--- | :---: | :--- |
-| **1. Home Screen** |  **100% Complete** | Displays verified garages with: Garage Name, Star Rating, Distance (`1.2 km away`), Location (`Indiranagar`), Available Services chips, Open/Closed status tag, 24x7 Roadside SOS emergency dispatch card, and quick category filters. |
-| **2. Mechanic Details Screen** |  **100% Complete** | Selecting any garage displays: Garage Name, Rating, Full Street Address, Services Offered, Working Hours, Direct Phone Contact (with 1-tap call intent), Directions shortcut, and prominent "Book / Request Service" action button. |
-| **3. Request Service Screen** |  **100% Complete** | Complete booking form with: Customer Name (auto pre-filled from active session), Contact Phone, Vehicle Registration Number, Service selection dropdown, Problem description text field, Emergency vs Standard urgency toggle, and confirmation modal with live arrival ETA. |
-| **4. API / Data Handling** |  **100% Complete** | Retrofit 2 + Gson REST client communicating with Spring Boot backend, full loading states (`CircularProgressIndicator`), comprehensive error handling with validation banners, and live API data rendering. |
-
----
-
 ## 🌟 Bonus & Advanced Features Implemented
 
 - **🔐 Full Authentication Suite**:
