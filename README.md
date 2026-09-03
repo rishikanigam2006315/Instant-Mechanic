@@ -68,6 +68,43 @@ The application adheres to **Clean Architecture** principles using the **MVVM (M
 - **Repository Pattern**: Abstract data sources so UI layers remain decoupled from network implementations.
 
 ---
+---
+
+## 📸 Application Screenshots
+
+### 🔐 Login
+
+<img src="screenshots/login.jpeg" width="250"/>
+
+### 🏠 Home
+
+<img src="screenshots/home.jpeg" width="250"/>
+
+### 🔍 Explore, Search & Filter
+
+<img src="screenshots/explore.jpeg" width="250"/>
+
+### 🔧 Mechanic Details
+
+<img src="screenshots/mechanic-details.jpeg" width="250"/>
+
+### 🛠️ Request Service
+
+<img src="screenshots/request-service.jpeg" width="250"/>
+
+### ✅ Service Request Confirmation
+
+<img src="screenshots/confirmation.jpeg" width="250"/>
+
+### 👤 Profile
+
+<img src="screenshots/profile.jpeg" width="250"/>
+
+### 🗂️ Sidebar Navigation
+
+<img src="screenshots/sidebar.jpeg" width="250"/>
+
+---
 
 ## 🔌 API & Data Specifications
 
