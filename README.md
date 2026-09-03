@@ -70,39 +70,55 @@ The application adheres to **Clean Architecture** principles using the **MVVM (M
 ---
 ---
 
+---
+
 ## 📸 Application Screenshots
 
-### 🔐 Login
+<table>
+<tr>
+<td align="center">
+<b>🔐 Login</b><br>
+<img src="screenshots/login.jpeg" width="220"/>
+</td>
 
-<img src="screenshots/login.jpeg" width="250"/>
+<td align="center">
+<b>🏠 Home</b><br>
+<img src="screenshots/home.jpeg" width="220"/>
+</td>
 
-### 🏠 Home
+<td align="center">
+<b>🔍 Explore</b><br>
+<img src="screenshots/explore.jpeg" width="220"/>
+</td>
 
-<img src="screenshots/home.jpeg" width="250"/>
+<td align="center">
+<b>🔧 Mechanic Details</b><br>
+<img src="screenshots/mechanic-details.jpeg" width="220"/>
+</td>
+</tr>
 
-### 🔍 Explore, Search & Filter
+<tr>
+<td align="center">
+<b>🛠️ Request Service</b><br>
+<img src="screenshots/request-service.jpeg" width="220"/>
+</td>
 
-<img src="screenshots/explore.jpeg" width="250"/>
+<td align="center">
+<b>✅ Confirmation</b><br>
+<img src="screenshots/confirmation.jpeg" width="220"/>
+</td>
 
-### 🔧 Mechanic Details
+<td align="center">
+<b>👤 Profile</b><br>
+<img src="screenshots/profile.jpeg" width="220"/>
+</td>
 
-<img src="screenshots/mechanic-details.jpeg" width="250"/>
-
-### 🛠️ Request Service
-
-<img src="screenshots/request-service.jpeg" width="250"/>
-
-### ✅ Service Request Confirmation
-
-<img src="screenshots/confirmation.jpeg" width="250"/>
-
-### 👤 Profile
-
-<img src="screenshots/profile.jpeg" width="250"/>
-
-### 🗂️ Sidebar Navigation
-
-<img src="screenshots/sidebar.jpeg" width="250"/>
+<td align="center">
+<b>🗂️ Sidebar Navigation</b><br>
+<img src="screenshots/sidebar.jpeg" width="220"/>
+</td>
+</tr>
+</table>
 
 ---
 
